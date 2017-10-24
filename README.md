@@ -13,7 +13,7 @@ research fields of guests, is unsurprisingly quite vast.
 Hope you'll enjoy the list. Any ideas, suggestions and/or contributions are welcome!
 
 * [Talk Python to Me](https://talkpython.fm/episodes/all)
-* [Podcast.__init__](https://podcastinit.com/)
+* [Podcast.\_\_init\_\_](https://podcastinit.com/)
 * [Python Bytes](https://pythonbytes.fm/episodes/all)
 * [Test and Code](testandcode.com/episodes)
 * [TestTalks](https://joecolantonio.com/testtalks/)
