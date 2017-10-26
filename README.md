@@ -20,6 +20,7 @@ Hope you'll enjoy the list. Any ideas, suggestions and/or contributions are welc
 * [Functional Geekery](https://www.functionalgeekery.com/category/podcasts/)
 * [Data Skeptic](https://dataskeptic.com/podcast)
 * [Linear Digressions](https://lineardigressions.com/)
+* [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
 * [Adversarial Learning](https://adversariallearning.com/)
 * [Software Engieering Daily](https://softwareengineeringdaily.com/category/podcast/)
 * [Coding Blocks](https://www.codingblocks.net/)
