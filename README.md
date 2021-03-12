@@ -19,6 +19,7 @@ Hope you'll enjoy the list. Any ideas, suggestions and/or contributions are welc
 * [TestTalks](https://joecolantonio.com/testtalks/testtalks): [@testtalks](https://twitter.com/testtalks)
 * [Functional Geekery](https://www.functionalgeekery.com/category/podcasts/): [@fngeekery](https://twitter.com/fngeekery)
 * [Data Skeptic](https://dataskeptic.com/podcast): [@DataSkeptic](https://twitter.com/DataSkeptic)
+* [Partially Derivative](http://partiallyderivative.com/): [@partiallyd](https://twitter.com/partiallyd)
 * [Linear Digressions](https://lineardigressions.com/): [@LinDigressions](https://twitter.com/LinDigressions)
 * [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/): [@BecomingDataSci](https://twitter.com/BecomingDataSci)
 * [Adversarial Learning](https://adversariallearning.com/): [@Adversarial_L](https://twitter.com/Adversarial_L)
