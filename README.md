@@ -12,6 +12,9 @@ research fields of guests, is unsurprisingly quite vast.
 
 Hope you'll enjoy the list. Any ideas, suggestions and/or contributions are welcome!
 
+In no particular order:
+* [Lex Fridman Podcast](https://lexfridman.com/podcast/): [@LexFridman](https://twitter.com/LexFridman)
+* [AI with AI](https://www.cna.org/news/AI-Podcast): [@AIwithAI](https://twitter.com/AIwithAI)
 * [Talk Python to Me](https://talkpython.fm/episodes/all): [@talkpython](https://twitter.com/talkpython)
 * [Podcast.\_\_init\_\_](https://podcastinit.com/): [@Podcast\_\_init\_\_](https://twitter.com/Podcast__init__)
 * [Python Bytes](https://pythonbytes.fm/episodes/all): [@pythonbytes](https://twitter.com/pythonbytes)
