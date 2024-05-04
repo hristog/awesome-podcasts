@@ -5,32 +5,34 @@ Please, note that the list is not ordered in any particular way, and even if you
 
 I hope you'll enjoy some of the referenced podcasts! Any feedback, ideas, suggestions and/or contributions are welcome!
 
-* [Software Unscripted](https://pod.link/1602572955): [@sw_unscripted](https://twitter.com/sw_unscripted)
-* [Signals and Threads](https://signalsandthreads.com/): [@signalsthreads](https://twitter.com/signalsthreads)
-* [Deep Mind: The Podcast](https://deepmind.google/discover/the-podcast/): [@GoogleDeepMind](https://twitter.com/GoogleDeepMind)
-* [The Numberphile Podcast](https://www.numberphile.com/podcast): [@numberphile](https://twitter.com/numberphile)
-* [Developer Voices](https://pod.link/developer-voices): [@krisajenkins](https://twitter.com/krisajenkins)
-* [Array Cast](https://www.arraycast.com): [@arraycast](https://twitter.com/arraycast)
-* [ADSP: The Podcast](https://adspthepodcast.com): [@adspthepodcast](https://twitter.com/adspthepodcast)
-* [CoRecursive: The Stories Behind The Code](https://corecursive.com): [@corecursive](https://twitter.com/corecursive)
-* [GOTO - Today, Tomorrow and the Future](https://goto.buzzsprout.com): [@GOTOcon](https://twitter.com/GOTOcon)
-* [The Real Python Podcast](https://realpython.com/podcasts/rpp/): [@realpython](https://twitter.com/realpython)
-* [Lex Fridman Podcast](https://lexfridman.com/podcast/): [@LexFridman](https://twitter.com/LexFridman)
-* [AI with AI](https://www.cna.org/news/AI-Podcast): [@AIwithAI](https://twitter.com/AIwithAI)
-* [Talk Python to Me](https://talkpython.fm/episodes/all): [@talkpython](https://twitter.com/talkpython)
-* [Podcast.\_\_init\_\_](https://podcastinit.com/): [@Podcast\_\_init\_\_](https://twitter.com/Podcast__init__)
-* [Python Bytes](https://pythonbytes.fm/episodes/all): [@pythonbytes](https://twitter.com/pythonbytes)
-* [Test and Code](testandcode.com/episodes): [@brianokken](https://twitter.com/brianokken)
-* [TestTalks](https://joecolantonio.com/testtalks/testtalks): [@testtalks](https://twitter.com/testtalks)
-* [Functional Geekery](https://www.functionalgeekery.com/category/podcasts/): [@fngeekery](https://twitter.com/fngeekery)
-* [Data Skeptic](https://dataskeptic.com/podcast): [@DataSkeptic](https://twitter.com/DataSkeptic)
-* [Partially Derivative](http://partiallyderivative.com/): [@partiallyd](https://twitter.com/partiallyd)
-* [Linear Digressions](https://lineardigressions.com/): [@LinDigressions](https://twitter.com/LinDigressions)
-* [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/): [@BecomingDataSci](https://twitter.com/BecomingDataSci)
-* [Adversarial Learning](https://adversariallearning.com/): [@Adversarial_L](https://twitter.com/Adversarial_L)
-* [Software Engieering Daily](https://softwareengineeringdaily.com/category/podcast/): [@software_daily](https://twitter.com/software_daily)
-* [Coding Blocks](https://www.codingblocks.net/): [@CodingBlocks](https://twitter.com/CodingBlocks)
-* [This Week in Machine Learning and AI](https://twimlai.com/): [@twimlai](https://twitter.com/twimlai)
-* [Talking Machines](http://www.thetalkingmachines.com/): [@TlkngMchns](https://twitter.com/TlkngMchns)
-* [Import This](https://www.kennethreitz.org/import-this/): [@kennethreitz](https://twitter.com/kennethreitz)
-* [The Changelog](https://changelog.com/podcast): [@changelog](https://twitter.com/changelog)
+| Podcast | Twitter profile |
+| :--- | :--- |
+| [Software Unscripted](https://pod.link/1602572955) | [@sw_unscripted](https://twitter.com/sw_unscripted) |
+| [Signals and Threads](https://signalsandthreads.com/) | [@signalsthreads](https://twitter.com/signalsthreads) |
+| [Deep Mind: The Podcast](https://deepmind.google/discover/the-podcast/) | [@GoogleDeepMind](https://twitter.com/GoogleDeepMind) |
+| [The Numberphile Podcast](https://www.numberphile.com/podcast) | [@numberphile](https://twitter.com/numberphile) |
+| [Developer Voices](https://pod.link/developer-voices) | [@krisajenkins](https://twitter.com/krisajenkins) |
+| [Array Cast](https://www.arraycast.com) | [@arraycast](https://twitter.com/arraycast) |
+| [ADSP: The Podcast](https://adspthepodcast.com) | [@adspthepodcast](https://twitter.com/adspthepodcast) |
+| [CoRecursive: The Stories Behind The Code](https://corecursive.com) | [@corecursive](https://twitter.com/corecursive) |
+| [GOTO - Today, Tomorrow and the Future](https://goto.buzzsprout.com) | [@GOTOcon](https://twitter.com/GOTOcon) |
+| [The Real Python Podcast](https://realpython.com/podcasts/rpp/) | [@realpython](https://twitter.com/realpython) |
+| [Lex Fridman Podcast](https://lexfridman.com/podcast/) | [@LexFridman](https://twitter.com/LexFridman) |
+| [AI with AI](https://www.cna.org/news/AI-Podcast) | [@AIwithAI](https://twitter.com/AIwithAI) |
+| [Talk Python to Me](https://talkpython.fm/episodes/all) | [@talkpython](https://twitter.com/talkpython) |
+| [Podcast.\_\_init\_\_](https://podcastinit.com/) | [@Podcast\_\_init\_\_](https://twitter.com/Podcast__init__) |
+| [Python Bytes](https://pythonbytes.fm/episodes/all) | [@pythonbytes](https://twitter.com/pythonbytes) |
+| [Test and Code](testandcode.com/episodes) | [@brianokken](https://twitter.com/brianokken) |
+| [TestTalks](https://joecolantonio.com/testtalks/testtalks) | [@testtalks](https://twitter.com/testtalks) |
+| [Functional Geekery](https://www.functionalgeekery.com/category/podcasts/) | [@fngeekery](https://twitter.com/fngeekery) |
+| [Data Skeptic](https://dataskeptic.com/podcast) | [@DataSkeptic](https://twitter.com/DataSkeptic) |
+| [Partially Derivative](http://partiallyderivative.com/) | [@partiallyd](https://twitter.com/partiallyd) |
+| [Linear Digressions](https://lineardigressions.com/) | [@LinDigressions](https://twitter.com/LinDigressions) |
+| [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/) | [@BecomingDataSci](https://twitter.com/BecomingDataSci) |
+| [Adversarial Learning](https://adversariallearning.com/) | [@Adversarial_L](https://twitter.com/Adversarial_L) |
+| [Software Engieering Daily](https://softwareengineeringdaily.com/category/podcast/) | [@software_daily](https://twitter.com/software_daily) |
+| [Coding Blocks](https://www.codingblocks.net/) | [@CodingBlocks](https://twitter.com/CodingBlocks) |
+| [This Week in Machine Learning and AI](https://twimlai.com/) | [@twimlai](https://twitter.com/twimlai) |
+| [Talking Machines](http://www.thetalkingmachines.com/) | [@TlkngMchns](https://twitter.com/TlkngMchns) |
+| [Import This](https://www.kennethreitz.org/import-this/) | [@kennethreitz](https://twitter.com/kennethreitz) |
+| [The Changelog](https://changelog.com/podcast) | [@changelog](https://twitter.com/changelog) |
