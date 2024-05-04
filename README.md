@@ -1,18 +1,10 @@
 # Awesome Podcasts
-Inspired by what has now become a common trend around online open-source communities,
-I have put together a non-extensive list of podcasts which I would recommend to any
-passionate software engineer and/or data scientists out there. A few of them tend to
-focus mostly on Python, which is non-coincidental, given how widespread the language
-has become in the Machine Learning and Data Science communities over the past few years.
+Inspired by what has now become a common trend around online open-source communities, I have put together a non-exhaustive list of podcasts which I would recommend to any passionate software engineer, data scientists or perpetual learner out there. A few of them tend to focus mostly on Python, which is non-coincidental, given how widespread the language has become in the Machine Learning and Data Science communities over the past decade.
 
-Please, note that the list is not ordered in any particular way, and even if your
-language of choice is not Python, there's still quite a lot to be gained in terms of
-knowledge, as the diversity of topics covered and discussed, along with interests and
-research fields of guests, is unsurprisingly quite vast.
+Please, note that the list is not ordered in any particular way, and even if your language of choice is not Python, there's still quite a lot to be gained in terms of knowledge, as the diversity of topics covered and discussed - along with guests' interests and respective research fields - is unsurprisingly quite vast.
 
-Hope you'll enjoy the list. Any ideas, suggestions and/or contributions are welcome!
+I hope you'll enjoy some of the referenced podcasts! Any feedback, ideas, suggestions and/or contributions are welcome!
 
-In no particular order:
 * [Software Unscripted](https://pod.link/1602572955): [@sw_unscripted](https://twitter.com/sw_unscripted)
 * [Signals and Threads](https://signalsandthreads.com/): [@signalsthreads](https://twitter.com/signalsthreads)
 * [Deep Mind: The Podcast](https://deepmind.google/discover/the-podcast/): [@GoogleDeepMind](https://twitter.com/GoogleDeepMind)
