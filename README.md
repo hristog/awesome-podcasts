@@ -17,6 +17,7 @@ I hope you'll enjoy some of the referenced podcasts! Any feedback, ideas, sugges
 | [CoRecursive: The Stories Behind The Code](https://corecursive.com) | [@corecursive](https://twitter.com/corecursive) |
 | [GOTO - Today, Tomorrow and the Future](https://goto.buzzsprout.com) | [@GOTOcon](https://twitter.com/GOTOcon) |
 | [The Real Python Podcast](https://realpython.com/podcasts/rpp/) | [@realpython](https://twitter.com/realpython) |
+| [Go Time](https://changelog.com/gotime) | [@GoTimeFM](https://twitter.com/GoTimeFM) |
 | [Lex Fridman Podcast](https://lexfridman.com/podcast/) | [@LexFridman](https://twitter.com/LexFridman) |
 | [AI with AI](https://www.cna.org/news/AI-Podcast) | [@AIwithAI](https://twitter.com/AIwithAI) |
 | [Talk Python to Me](https://talkpython.fm/episodes/all) | [@talkpython](https://twitter.com/talkpython) |
