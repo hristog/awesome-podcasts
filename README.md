@@ -13,6 +13,15 @@ research fields of guests, is unsurprisingly quite vast.
 Hope you'll enjoy the list. Any ideas, suggestions and/or contributions are welcome!
 
 In no particular order:
+* [Software Unscripted](https://pod.link/1602572955): [@sw_unscripted](https://twitter.com/sw_unscripted)
+* [Signals and Threads](https://signalsandthreads.com/): [@signalsthreads](https://twitter.com/signalsthreads)
+* [Deep Mind: The Podcast](https://deepmind.google/discover/the-podcast/): [@GoogleDeepMind](https://twitter.com/GoogleDeepMind)
+* [The Numberphile Podcast](https://www.numberphile.com/podcast): [@numberphile](https://twitter.com/numberphile)
+* [Developer Voices](https://pod.link/developer-voices): [@krisajenkins](https://twitter.com/krisajenkins)
+* [Array Cast](https://www.arraycast.com): [@arraycast](https://twitter.com/arraycast)
+* [CoRecursive: The Stories Behind The Code](https://corecursive.com): [@corecursive](https://twitter.com/corecursive)
+* [GOTO - Today, Tomorrow and the Future](https://goto.buzzsprout.com): [@GOTOcon](https://twitter.com/GOTOcon)
+* [The Real Python Podcast](https://realpython.com/podcasts/rpp/): [@realpython](https://twitter.com/realpython)
 * [Lex Fridman Podcast](https://lexfridman.com/podcast/): [@LexFridman](https://twitter.com/LexFridman)
 * [AI with AI](https://www.cna.org/news/AI-Podcast): [@AIwithAI](https://twitter.com/AIwithAI)
 * [Talk Python to Me](https://talkpython.fm/episodes/all): [@talkpython](https://twitter.com/talkpython)
@@ -32,4 +41,3 @@ In no particular order:
 * [Talking Machines](http://www.thetalkingmachines.com/): [@TlkngMchns](https://twitter.com/TlkngMchns)
 * [Import This](https://www.kennethreitz.org/import-this/): [@kennethreitz](https://twitter.com/kennethreitz)
 * [The Changelog](https://changelog.com/podcast): [@changelog](https://twitter.com/changelog)
-
