@@ -19,6 +19,7 @@ In no particular order:
 * [The Numberphile Podcast](https://www.numberphile.com/podcast): [@numberphile](https://twitter.com/numberphile)
 * [Developer Voices](https://pod.link/developer-voices): [@krisajenkins](https://twitter.com/krisajenkins)
 * [Array Cast](https://www.arraycast.com): [@arraycast](https://twitter.com/arraycast)
+* [ADSP: The Podcast](https://adspthepodcast.com): [@adspthepodcast](https://twitter.com/adspthepodcast)
 * [CoRecursive: The Stories Behind The Code](https://corecursive.com): [@corecursive](https://twitter.com/corecursive)
 * [GOTO - Today, Tomorrow and the Future](https://goto.buzzsprout.com): [@GOTOcon](https://twitter.com/GOTOcon)
 * [The Real Python Podcast](https://realpython.com/podcasts/rpp/): [@realpython](https://twitter.com/realpython)
